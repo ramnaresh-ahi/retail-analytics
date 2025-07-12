@@ -1,0 +1,17 @@
+
+version: 2
+
+sources:
+  - name: raw
+    database: ecommerce-analysis-464405
+    schema: retail_raw_data
+    tables:
+      - name: campaigns
+      - name: customer_reviews
+      - name: customers
+      - name: interactions
+      - name: support_tickets
+      - name: transactions
+
+
+    
