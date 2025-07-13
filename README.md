@@ -86,6 +86,12 @@ Project documentation is available at: [retail-analytics docs](https://ramnaresh
 
 ---
 
+## 📊 Dashboard
+
+Check out the interactive dashboard here: [Retail Analytics Dashboard]([https://your-dashboard-link.com](https://lookerstudio.google.com/reporting/6206d567-bca9-476a-9663-04777b5db8cf))
+
+---
+
 ## 🧰 Tech Stack
 
 | Tool         | Purpose                                  |
