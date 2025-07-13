@@ -3,7 +3,7 @@ WITH support_tickets AS(
     SELECT
         ticket_id,
         customer_id,
-        issue_category,
+        COALESCE(issue_category, 'Unknown') as issue_category,
         priority,
         submission_date,
         resolution_date,

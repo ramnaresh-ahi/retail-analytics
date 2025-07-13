@@ -12,7 +12,10 @@ WITH customers AS(
         state,
         zip_code,
         registration_date,
-        preferred_channel
+        CASE
+            WHEN preferred_channel IS NULL THEN 'Unknown'
+            ELSE preferred_channel
+            END as preferred_channel
     FROM
         {{ source('raw', 'customers')}}
 )
