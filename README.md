@@ -1,4 +1,4 @@
-# 🛍️ Retail Analytics Project
+# 🛍️ Retail Analytics 
 
 This project aims to derive insights from a retail dataset by analyzing customer behavior, support interactions, marketing campaigns, and transactions. Built using **dbt Cloud** and **BigQuery**, the project follows a modular, scalable, and maintainable analytics engineering workflow.
 
