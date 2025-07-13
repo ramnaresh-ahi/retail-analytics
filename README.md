@@ -133,4 +133,3 @@ dbt docs serve
 Data Enthusiast | dbt & BigQuery Practitioner  
 📧 Email: ramnareshahi77@gmail.com  
 🌐 GitHub: [ramnaresh-ahi](https://github.com/ramnaresh-ahi)  
-📄 Portfolio/Docs: [Retail Analytics Docs](https://ramnaresh-ahi.github.io/retail-analytics/)
